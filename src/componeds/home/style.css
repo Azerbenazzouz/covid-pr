@@ -1,0 +1,20 @@
+#counter-box{
+font-family: 'Poppins',sans-serif;
+font-size: 14px;
+font-weight: 400;
+color: #888888;
+border: 0;
+outline: 0;
+vertical-align: baseline;
+background: 0 0;
+text-decoration: none;
+overflow: hidden;
+margin: 0 auto;
+padding: 40px 0;
+position: relative;
+background-image: url(https://1.bp.blogspot.com/-cFauqboXBxI/Xs5py6OjWwI/AAAAAAAAIfk/obIWFMT_m4UI6Mx7hJF-rKaTZfXXIxYdACNcBGAsYHQ/s1600/counter-back.png);
+background-repeat: no-repeat;
+background-position: 50% 50%;
+background-size: 100%;
+background-color: #2766bb;
+}
