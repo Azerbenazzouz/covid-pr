@@ -1,0 +1,1 @@
+# This website is made available to all citizens, so that they can follow the latest developments regarding the state&#39;s efforts to limit the spread of the Coronavirus.<br /><br />The information is updated real-time and without interruption.<br/><br />Citizens are requested to abide by the updated procedures to prevent disease.<br /><br />We wish everyone good health.
